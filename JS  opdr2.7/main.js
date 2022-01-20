@@ -33,7 +33,7 @@ let aNumber;
 function thisNumber (aNumber) {
     let thisNumber = aNumber;
     if (thisNumber < 5.5) {
-        alert('Je hebt een voldoende gehaald');
+        alert('Je hebt een onvoldoende gehaald');
     } else if (thisNumber > 5.5) {
         alert('Je hebt een voldoende gehaald');
     }
